@@ -1,0 +1,17 @@
+.centeredcard {
+  display: flex;
+  color: white;
+  border: 3px ridge darkslateblue;
+  border-radius: 15px 0 15px 0;
+  text-align: center;
+  align-items: center;
+  background-image: url("./img/thetropper.gif");
+  background-size: cover;
+  background-position: center;
+  width: 300px;
+  height: 400px;
+  justify-content: center;
+}
+span {
+  color: whitesmoke;
+}
